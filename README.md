@@ -1,2 +1,2 @@
 # pyhton_lessons
-ushbu repazitorda men yozgan kodlar hamdaboshlangich dasturlarim bor.
+Ushbu repazitorda men yozgan kodlar hamda boshlangich dasturlarim bor.
